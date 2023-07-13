@@ -5,3 +5,5 @@ This is a whatsp cde :
 3. last seen code
 4.Attachements code(Audio,video,Image)
 Hiding the last seen
+Adin the video features
+Ading audio cal features
