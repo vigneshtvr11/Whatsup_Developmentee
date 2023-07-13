@@ -4,3 +4,4 @@ This is a whatsp cde :
 2.chat screen code
 3. last seen code
 4.Attachements code(Audio,video,Image)
+Hiding the last seen
